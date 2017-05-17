@@ -1,5 +1,6 @@
 #ifndef KATA2_FIZZBUZZ_H
 #define KATA2_FIZZBUZZ_H
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>

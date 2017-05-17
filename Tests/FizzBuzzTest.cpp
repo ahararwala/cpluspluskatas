@@ -7,8 +7,10 @@ using testing::Eq;
 
 namespace {
     class FizzBuzzTest : public testing::Test {
+
     public:
         FizzBuzz sut;
+
         FizzBuzzTest() {
             sut;
         }
