@@ -1,14 +1,17 @@
-FIZZBUZZ Goal
-=============
+#### Instructions for Importing the project in cLion
 
-For this project we would like you to design a program to recreate the FizzBuzz numbers game.
+git clone this repo
+cd into cpluspluskatas/lib folder
+git clone https://github.com/google/googletest.git googletest-master
 
-Rules
------
+#### FizzBuzz Goal
 
+## The goal of this kata is to TDD a program to recreate FizzBuzz numbers game using C++ and googletest
+
+# Rules
 For the integers 1 through 100 inclusive program should:
 
-- return Fizz for any multiple of 3
-- return Buzz for any multiple of 5
-- return FizzBuzz for any multiple of 3 & 5
-- return the integer that was input if none of the above are true
+- Return Fizz for any multiple of 3
+- Return Buzz for any multiple of 5
+- Return FizzBuzz for any multiple of 3 & 5
+- Return the integer that was input if none of the above are true
